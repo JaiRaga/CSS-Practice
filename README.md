@@ -1,2 +1,2 @@
 # CSS-Practice
-Projects to strengthen CSS
+Projects to practice and strengthen CSS Grid, Flexbox, and Variables.
